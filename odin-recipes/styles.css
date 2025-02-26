@@ -1,0 +1,34 @@
+* {
+    text-align: center;
+}
+
+ul,
+ol,
+p {
+    font-weight: 700;
+    font-family: cursive;
+}
+
+ul,
+ol {
+    text-align: left;
+}
+
+h1,
+h2,
+h3 {
+    background-color: antiquewhite;
+    font-family: cursive;
+    outline: 2px solid black;
+    margin: 50px;
+}
+
+.recipe-photo {
+    height: auto;
+    width: 500px;
+}
+
+/* For inspecting the base box model */
+/* * {
+    outline: 2px solid red;
+} */
